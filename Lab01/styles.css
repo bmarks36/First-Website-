@@ -84,16 +84,15 @@ body {
     box-shadow: 0px 0px 5px #C2C2C2;
 }
 
-.dog{
+.cat{
     width: 100px;
 }
 body#page2{
-    background-color: rgba(255, 211, 190, 0.938);
+    background-color: bisque;
     font-family:'Courier New', Courier, monospace;
 }
-
 .pictures{
-    width: 200px;
-    height: 200px;
-    padding-left: 40%;
+    width: 300px;
+    height: 300px;
+    padding-left: 50%;
 }
